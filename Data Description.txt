@@ -1,0 +1,17 @@
+Metadata for merging 400m grid units as of 2017.
+'Seoul_2017_training. csv' is a merger of the above data into one.
+Some GIS files that are difficult to convert to .csv files have not been uploaded.
+
+Raw data can be downloaded from the public sources below.
+
+Seoul Metropolitan Governments
+(About Populations)
+https://data.seoul.go.kr/
+
+Ministry of Land, Infrastructure and Transport.
+(About Urban Infra.)
+https://www.vworld.kr/v4po_main.do
+
+Ministry of the Interior and Safety.
+(About Retail Factors)
+https://www.localdata.go.kr/
