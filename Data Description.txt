@@ -1,8 +1,9 @@
 Metadata for merging 400m grid units as of 2017.
-'Seoul_2017_training. csv' is a merger of the above data into one.
-Some GIS files that are difficult to convert to .csv files have not been uploaded.
+Particular, 'Seoul_2017_training. csv' is training data used for MTNN training.
+Some GIS files that are difficult to convert to .csv have not been uploaded.
 
 Raw data can be downloaded from the public sources below.
++Can download the GIS file in the below URLs
 
 Seoul Metropolitan Governments
 (About Populations)
