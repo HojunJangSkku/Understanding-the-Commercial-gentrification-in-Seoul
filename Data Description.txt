@@ -1,9 +1,10 @@
 Metadata for merging 400m grid units as of 2017.
-Particular, 'Seoul_2017_training. csv' is training data used for MTNN training.
+'Seoul_2017_training. csv' is training data used for MTNN training.
+'MTL_state_dict.pt' is a final model that saved through torch.jit.script()
 Some GIS files that are difficult to convert to .csv have not been uploaded.
 
-Raw data can be downloaded from the public sources below.
-+Can download the GIS file in the below URLs
+Raw data can be downloaded from public sources below.
++ Can download raw GIS files in below URLs
 
 Seoul Metropolitan Governments
 (About Populations)
